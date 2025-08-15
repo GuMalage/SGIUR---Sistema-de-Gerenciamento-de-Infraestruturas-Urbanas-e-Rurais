@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1749409378 source:c:\users\samsung\desktop\3semestre\estrutura de dados 2\grafos\grafo\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grafo.h"
+
+1749408873 c:\users\samsung\desktop\3semestre\estrutura de dados 2\grafos\grafo\grafo.h
+
+1749409259 source:c:\users\samsung\desktop\3semestre\estrutura de dados 2\grafos\grafo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grafo.h"
+
+1749600240 source:c:\users\samsung\desktop\3semestre\estrutura de dados 2\grafos\grafoex1\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grafo.h"
+
+1749599478 c:\users\samsung\desktop\3semestre\estrutura de dados 2\grafos\grafoex1\grafo.h
+
+1749600343 source:c:\users\samsung\desktop\3semestre\estrutura de dados 2\grafos\grafoex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grafo.h"
+
+1751501592 source:c:\users\samsung\desktop\3semestre\estrutura de dados 2\grafos\gustavomalagegrafo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grafo.h"
+
+1751501628 c:\users\samsung\desktop\3semestre\estrutura de dados 2\grafos\gustavomalagegrafo\grafo.h
+
+1751580855 source:c:\users\samsung\desktop\3semestre\estrutura de dados 2\grafos\gustavomalagegrafo\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"Grafo.h"
+
+1751581448 source:c:\users\samsung\desktop\3semestre\estrutura de dados 2\grafos\gustavomalage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grafo.h"
+
+1751501628 c:\users\samsung\desktop\3semestre\estrutura de dados 2\grafos\gustavomalage\grafo.h
+
+1751593840 source:c:\users\samsung\desktop\3semestre\estrutura de dados 2\grafos\gustavomalage\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"Grafo.h"
+
